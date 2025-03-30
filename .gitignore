@@ -1,0 +1,13 @@
+# Ignore Maven target files
+task-backend/target/
+task-backend/.mvn/
+task-backend/.idea/
+
+# Ignore Node.js build files
+task-frontend/node_modules/
+task-frontend/.next/
+task-frontend/.idea/
+
+# Ignore environment files
+task-frontend/.env
+task-backend/.env
